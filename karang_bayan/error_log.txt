@@ -1,0 +1,254 @@
+[21-Dec-2025 15:08:46 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:08:52 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:08:54 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:08:56 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:08:58 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:09:13 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:10:47 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:11:10 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:11:48 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:11:54 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:11:57 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:12:59 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:13:45 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:13:57 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:14:03 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:14:15 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:14:32 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:14:39 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:14:43 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:16:15 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:16:27 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:36:04 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:36:31 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:42:30 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[21-Dec-2025 15:42:52 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:02:14 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:02:30 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:02:41 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:05:51 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:08:54 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:09:13 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:09:29 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:22:33 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:50:51 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[23-Dec-2025 03:51:51 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 10:37:06 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 10:45:34 Europe/Berlin] Form submitted: Array
+(
+    [name] => waris
+    [email] => blackbearest@gmail.com
+    [rating] => 5
+    [review] => sudahjasnwjbsfjbqwjncfoqn
+)
+
+[26-Dec-2025 10:45:34 Europe/Berlin] Database connected
+[26-Dec-2025 10:45:34 Europe/Berlin] Review inserted successfully
+[26-Dec-2025 10:45:50 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:45:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:45:54 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:45:54 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:45:56 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:45:56 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:50 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:51 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:51 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:51 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:51 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:55 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:56 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:48:56 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:49:03 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:49:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 10:54:58 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 10:56:04 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:01:02 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:11:54 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:12:56 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:12:56 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:13:03 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:13:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:13:05 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:13:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:13:09 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:16:00 Europe/Berlin] Form submitted: Array
+(
+    [name] => M Rifki Ade Irawan
+    [email] => aderifki221@gmail.com
+    [rating] => 5
+    [review] => Tempatnya penuh dengan budaya yang menarik dan keindahan alam yang sangat bagus
+)
+
+[26-Dec-2025 11:16:00 Europe/Berlin] Database connected
+[26-Dec-2025 11:16:00 Europe/Berlin] Review inserted successfully
+[26-Dec-2025 11:16:05 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:16:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:16:06 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:16:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:16:09 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:16:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:16:12 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:16:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:16:16 Europe/Berlin] Form submitted: Array
+(
+    [name] => M Rifki Ade Irawan
+    [email] => aderifki221@gmail.com
+    [rating] => 5
+    [review] => Tempatnya penuh dengan budaya yang menarik dan keindahan alam yang sangat bagus
+)
+
+[26-Dec-2025 11:16:16 Europe/Berlin] Database connected
+[26-Dec-2025 11:16:16 Europe/Berlin] Review inserted successfully
+[26-Dec-2025 11:16:53 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:17:05 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:17:11 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:17:38 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:17:38 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:18:36 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:18:36 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:20:53 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:20:53 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:22:34 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:22:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:22:35 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:22:35 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:22:40 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:22:41 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:22:41 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:23:10 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:23:10 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:23:12 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:23:12 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:23:13 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:23:14 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:23:14 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:28:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:28:23 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:28:23 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:28:24 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:28:28 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:28:28 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:22 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:22 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:24 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:24 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:25 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:25 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:27 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:29:28 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:28 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:39 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:41 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:29:43 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:43 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:29:45 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:29:45 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:29:48 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:29:48 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:30:44 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:30:44 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:30:45 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:30:45 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:30:48 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:30:50 Europe/Berlin] PHP Warning:  Undefined variable $approved_reviews in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:30:50 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\karang_bayan\review.php:652
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\karang_bayan\review.php on line 652
+[26-Dec-2025 11:31:11 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:31:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:32:06 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:32:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:32:07 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:32:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:32:30 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:32:41 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:33:31 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:40:58 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:40:58 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:48:51 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:49:10 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:49:28 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:49:34 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[26-Dec-2025 11:51:42 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[26-Dec-2025 11:51:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 12:59:29 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[28-Dec-2025 13:00:29 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[28-Dec-2025 13:00:49 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[28-Dec-2025 13:01:03 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[28-Dec-2025 13:02:13 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[28-Dec-2025 13:02:42 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[28-Dec-2025 13:11:54 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[28-Dec-2025 13:14:43 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:14:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:16:11 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
+[28-Dec-2025 13:26:04 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:26:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:26:10 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:26:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:26:16 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:26:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:26:59 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:26:59 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:27:37 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:27:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:27:49 Europe/Berlin] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:27:49 Europe/Berlin] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\karang_bayan\admin\reviews.php on line 90
+[28-Dec-2025 13:30:36 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\karang_bayan\includes\config.php on line 11
